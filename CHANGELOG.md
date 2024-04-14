@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 Please see [CONTRIBUTING.md](./CONTRIBUTING.md) on how to contribute to Cucumber.
 
+
+## [10.4.1] - 2024-04-07
+
+
 ## [Unreleased]
 
 ## [10.4.0] - 2024-04-07
